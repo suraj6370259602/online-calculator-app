@@ -12,5 +12,5 @@ steps:
   inputs:
     azureSubscription: 'gab-dotNetSP'
     appType: 'webAppLinux'
-    appName: 'gab-webapp'
+    appName: 'gab-webappooo'
     package: '$(System.DefaultWorkingDirectory)/**/*.zip'
